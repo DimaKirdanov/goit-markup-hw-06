@@ -569,9 +569,10 @@ body {
   fill: var(--background-header);
 }
 .footer-form {
-  margin-left: 93px;
 }
 .footer-tittle-form {
+  padding-left: 93px;
+  margin-left: auto;
   display: block;
   font-weight: 700;
   letter-spacing: 0.03em;
@@ -581,7 +582,7 @@ body {
 }
 .modal-form-footer-input {
   height: 50px;
-  width: 295px;
+  width: 358px;
   padding-left: 16px;
   background-color: #2f303a;
   border: 1px solid rgba(255, 255, 255, 0.3);
@@ -594,13 +595,13 @@ body {
 .footer-form-info {
   display: flex;
   justify-content: center;
+  margin-left: 93px;
 }
 .footer-submit-button {
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: inherit;
-
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
