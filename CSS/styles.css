@@ -566,8 +566,7 @@ body {
 .social-list-link-footer:focus .social-list-icon {
   fill: var(--background-header);
 }
-.footer-form {
-}
+
 .footer-tittle-form {
   margin-left: auto;
   display: block;
